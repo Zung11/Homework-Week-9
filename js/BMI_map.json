@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Mean BMI (2015)",
+    "title": "Men's Mean BMI (2015)",
     "width": 800,
     "height": 400,
     "projection": {"type": "equirectangular"},
